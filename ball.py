@@ -1,6 +1,7 @@
 from turtle import Turtle
 
 
+# Classe che gestisce la palla 
 class Ball(Turtle):
     def __init__(self):
         super().__init__()
